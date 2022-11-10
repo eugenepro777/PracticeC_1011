@@ -1,1 +1,1 @@
-# Praktika C# 1011
+# Workshop C# 101122
